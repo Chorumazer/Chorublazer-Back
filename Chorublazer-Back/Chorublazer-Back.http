@@ -1,0 +1,6 @@
+@Chorublazer_Back_HostAddress = http://localhost:5262
+
+GET {{Chorublazer_Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
